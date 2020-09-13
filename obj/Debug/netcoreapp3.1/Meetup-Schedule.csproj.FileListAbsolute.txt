@@ -1,0 +1,12 @@
+/Users/hgoel/My_Git_Hub/Meetup-Schedule/bin/Debug/netcoreapp3.1/Meetup-Schedule.deps.json
+/Users/hgoel/My_Git_Hub/Meetup-Schedule/bin/Debug/netcoreapp3.1/Meetup-Schedule.runtimeconfig.json
+/Users/hgoel/My_Git_Hub/Meetup-Schedule/bin/Debug/netcoreapp3.1/Meetup-Schedule.runtimeconfig.dev.json
+/Users/hgoel/My_Git_Hub/Meetup-Schedule/bin/Debug/netcoreapp3.1/Meetup-Schedule.dll
+/Users/hgoel/My_Git_Hub/Meetup-Schedule/bin/Debug/netcoreapp3.1/Meetup-Schedule.pdb
+/Users/hgoel/My_Git_Hub/Meetup-Schedule/obj/Debug/netcoreapp3.1/Meetup-Schedule.csprojAssemblyReference.cache
+/Users/hgoel/My_Git_Hub/Meetup-Schedule/obj/Debug/netcoreapp3.1/Meetup-Schedule.AssemblyInfoInputs.cache
+/Users/hgoel/My_Git_Hub/Meetup-Schedule/obj/Debug/netcoreapp3.1/Meetup-Schedule.AssemblyInfo.cs
+/Users/hgoel/My_Git_Hub/Meetup-Schedule/obj/Debug/netcoreapp3.1/Meetup-Schedule.csproj.CoreCompileInputs.cache
+/Users/hgoel/My_Git_Hub/Meetup-Schedule/obj/Debug/netcoreapp3.1/Meetup-Schedule.dll
+/Users/hgoel/My_Git_Hub/Meetup-Schedule/obj/Debug/netcoreapp3.1/Meetup-Schedule.pdb
+/Users/hgoel/My_Git_Hub/Meetup-Schedule/obj/Debug/netcoreapp3.1/Meetup-Schedule.genruntimeconfig.cache
